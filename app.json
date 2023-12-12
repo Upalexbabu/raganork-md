@@ -79,12 +79,12 @@
             "value":"{pp} Active since {uptime}\n User:{sender}"
         },
        "SESSION": {
-            "description": "Your MD session",
+            "description": "Your MD session"c51ede0fbce4e57000c97ae9b04c9e40:666a735848586f69564b4d3d,
             "required": true
              
         }
     },
-    "addons": [{
+    "addons": [8170050805{
       "plan": "heroku-postgresql"
     }],
     "buildpacks": [{
