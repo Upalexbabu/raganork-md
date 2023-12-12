@@ -71,7 +71,7 @@
         "SUDO": {
             "description": "These numbers can control your bot. seperate with commas",
             "required": false,
-            "value":"919074309534"
+            "value":"918170050805"
         },
         "ALIVE": {
             "description": "Alive message {image/link}, {sender} can also be used",
@@ -79,7 +79,7 @@
             "value":"{pp} Active since {uptime}\n User:{sender}"
         },
        "SESSION": {
-            "description": "Your MD session",
+            "description": "Your MD session"Raganork~c51ede0fbce4e57000c97ae9b04c9e40:666a735848586f69564b4d3d,
             "required": true
              
         }
